@@ -6,9 +6,8 @@
 
 <div align="justify">
   <p>
-    Angelica Ferriol is a Computer Science student based in the Philippines, currently exploring AI and data science.
-    She’s especially interested in how technology can support ocean conservation and environmental sustainability.
-    With a blend of technical curiosity and creative energy, she's committed to solve real-world problems and is always looking for ways to grow and contribute in her own silly little ways.
+    Angelica Ferriol is a Computer Science student in the Philippines, exploring AI and data science with a special focus on marine conservation and ocean development.
+    She's eager to combine creativity and technology to solve real-world problems and is always looking for ways to grow and contribute in her own silly little ways.
   </p>
 </div>
 
