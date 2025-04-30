@@ -1,8 +1,8 @@
-<h2 align="left">
+<h1 align="left">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Angelica+Ferriol+💙;AI+%26+Data+Science+Enthusiast+💻;Ocean+Conservation+Advocate+🌊;Building+a+sustainable+future...&center=false&size=24&color=36BCF7&pause=1000&width=800&height=60&delay=75&v=2">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Angelica+Ferriol+👋🏻;AI+%26+Data+Science+Enthusiast+💻;Ocean+Conservation+Advocate+🌊;Building+a+sustainable+future...&center=false&size=24&color=5094e7&pause=1000&width=800&height=60&delay=75&v=2">
     </a>
-</h2>
+</h1>
 
 <div align="justify">
   <p>
