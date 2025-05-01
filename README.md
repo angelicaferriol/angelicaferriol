@@ -29,7 +29,7 @@
     <a href="mailto:angelicaferriol712@gmail.com" style="text-decoration: none; margin-right: 5px;">
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square"/>
     </a>
-    <a href="https://youtube.com/@UCUdV1nf0yFe77DjatXZvPlw" style="text-decoration: none; margin-right: 5px;">
+    <a href="https://www.youtube.com/@anjerikachan" style="text-decoration: none; margin-right: 5px;">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square"/>
     </a>
     <a href="https://medium.com/@angelicaferriol" style="text-decoration: none;">
