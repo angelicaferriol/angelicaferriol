@@ -12,8 +12,8 @@
 </div>
 
 <div align="left">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=angelicaferriol&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true"/>
-    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=angelicaferriol&theme=github_dark_dimmed&hide_border=false"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=angelicaferriol&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true"/>
+    <img width="405" src="https://nirzak-streak-stats.vercel.app/?user=angelicaferriol&theme=github_dark_dimmed&hide_border=false"/>
 </div>
 
 <div align="left" style="display: inline-block; background: none; border: none;">
